@@ -2,6 +2,8 @@
 
 https://arpitbhayani.me/blogs/redis-replication
 
+https://arpitbhayani.me/blogs/blocking-queues
+
 https://neon.com/blog/design-decisions-behind-app-build
 
 https://devlogs.xyz/blog/building-a-javaScript-runtime
