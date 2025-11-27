@@ -1,5 +1,9 @@
 # what-iam-learning
 
+
+https://www.deepintodev.com/blog/how-websockets-work
+
+
 https://arpitbhayani.me/blogs/redis-replication
 
 https://arpitbhayani.me/blogs/blocking-queues
